@@ -32,10 +32,6 @@ class AutoYoutube:
                         self.download_youtube(mkd_folder, url_video)
 
     def on_progress(self, a, b, c):
-        # a = <Stream: itag="22" mime_type="video/mp4" res="720p" fps="24fps"
-        # vcodec="avc1.64001F" acodec="mp4a.40.2" progressive="True"
-        # type="video">
-        # c = 2334334
         print("Descargando... {} {}".format(a, c))
 
     def download_youtube(self, path: str, url: str):
@@ -75,12 +71,6 @@ class AutoYoutube:
             formatter = JSONFormatter()
             formater_web = WebVTTFormatter()
             web_formated = formater_web.format_transcript(transcript)
-            # print(web_formated)
-            # .format_transcript(transcript) turns the transcript into a JSON string.
-            # transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
-            # transcript = transcript_list.find_manually_created_transcript(['en'])
-            # transcript = transcript_list.find_generated_transcript(['es'])
-            # json_formatted = formatter.format_transcript(transcript.fetch())
             json_formatted = formatter.format_transcript(transcript)
             data_to_files = [web_formated, json_formatted]
 
