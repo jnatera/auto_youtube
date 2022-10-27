@@ -1,0 +1,765 @@
+name: Profetional Enginer
+items:
+  - name: Google Cloud Platform Big Data and Machine Learning Fundamentals
+    items:
+      - name: Google Cloud Platform Big Data and Machine Learning Fundamentals
+        items:
+          - name: Introduction to the Data and Machine Learning on Google Cloud Course
+            videos:
+              - https://youtu.be/ZAJwUAGQeX0
+
+          - name: Introduction to Google Cloud Platform
+            videos:
+              - https://youtu.be/1mwPk-oqwHE
+              - https://youtu.be/PCudz1edHLk
+              - https://youtu.be/HyB26I0-NN4
+              - https://youtu.be/oXXsb9Sl0B8
+              - https://youtu.be/sZw_O6Y1f_s
+              - https://youtu.be/v7PLGI-kHNk
+              - https://youtu.be/eZYyKwDYL84
+              - https://youtu.be/9PJuSdwJK0M
+              - https://youtu.be/0_tz7TF25J8
+              - https://youtu.be/cKa_u_67UoY
+              - https://youtu.be/Vo6TqchmKvM
+          - name: Recommending Products using Cloud SQL and Spark
+            videos:
+              - https://youtu.be/GxprXllUnrI
+              - https://youtu.be/EV9Ez65thvY
+              - https://youtu.be/YNN0RdC2WRs
+              - https://youtu.be/JzG7tfWrI0g
+              - https://youtu.be/NsgKt5J6zFM
+              - https://youtu.be/D0Y6ZDr2wlY
+              - https://youtu.be/fQ7OJr-ZhcM
+              - https://youtu.be/UOeJ1y4piYY
+
+          - name: Predict Visitor Purchases Using BigQuery ML
+            videos:
+              - https://youtu.be/aGscZVi1JiE
+              - https://youtu.be/dIt-rcaqMhc
+              - https://youtu.be/w_F_IDydQV4
+              - https://youtu.be/WiO3y1wSkcc
+              - https://youtu.be/rgZt1prBMeo
+              - https://youtu.be/gEjOMfSO094
+              - https://youtu.be/h9BUjG_ca68
+              - https://youtu.be/VV48SyyMuKs
+              - https://youtu.be/Y4qbV55WB9w
+              - https://youtu.be/2gKYYyvKFmw
+              - https://youtu.be/VxWr6QP2QPM
+              - https://youtu.be/qrbQL_-qvPw
+              - https://youtu.be/Nv2jWcDI7lg
+          - name: Real-time IoT Dashboards with Pub/Sub, Dataflow, and Data Studio
+            videos:
+              - https://youtu.be/YptEMu1HeeA
+              - https://youtu.be/j-mvc2mPJwo
+              - https://youtu.be/ojFnsGC-kjo
+              - https://youtu.be/G8X_Gaj2bY4
+              - https://youtu.be/-WTWgAKFw1I
+              - https://youtu.be/OzO5IJUATCk
+              - https://youtu.be/-ZltpjD9kb0
+              - https://youtu.be/GZnb85x2vXA
+          - name: Deriving Insights from Unstructured Data using Machine Learning
+            videos:
+              - https://youtu.be/L--7em36XcE
+              - https://youtu.be/bAT9hTQJRiE
+              - https://youtu.be/n9nwaBB8xhc
+              - https://youtu.be/_K0wG1UhNv0
+              - https://youtu.be/wlbhpO3F6RQ
+              - https://youtu.be/KHykk4tg3OA
+              - https://youtu.be/1ImeEgtyT6A
+              - https://youtu.be/IoDuWjFcXtA
+              - https://youtu.be/l5fXCMb9hxo
+              - https://youtu.be/Bch4huYzLjY
+          - name: Summary
+            videos:
+              - https://youtu.be/s8htJKesoQ8
+
+  - name: How Google Does Machine Learning
+    items:
+      - name: How Google Does Machine Learning
+        items:
+          - name: Introduction to Course
+            videos:
+              - https://youtu.be/_tQPI_YOQ7U
+              - https://youtu.be/NheAzMV-coo
+              - https://youtu.be/g7oTe2gXpZ4
+
+          - name: What it means to be AI first
+            videos:
+              - https://youtu.be/gEGHyS50DC8
+              - https://youtu.be/HDeeJgkXjfI
+              - https://youtu.be/TgkptLHKM5o
+              - https://youtu.be/8tdBe2SldRU
+              - https://youtu.be/oitfLR_xEo8
+              - https://youtu.be/YKXgzpILvqA
+              - https://youtu.be/tOviEHqs184
+              - https://youtu.be/2Z3olPNL2yc
+              - https://youtu.be/JSoHb6bjs8o
+              - https://youtu.be/OlOBASI0Q7Y
+              - https://youtu.be/YUVSM2aGwWw
+              - https://youtu.be/RqQypP5delw
+              - https://youtu.be/KJTAcMnF9Lc
+              - https://youtu.be/Dv-j7xfTOiY
+              - https://youtu.be/ynCQMW0Bqbk
+              - https://youtu.be/6PwFneTnIgI
+              - https://youtu.be/QNDlZC3VPX8
+              - https://youtu.be/0RWAYhHcRcA
+              - https://youtu.be/C2Kvvif4C_s
+              - https://youtu.be/nyLAWRdhh8w
+              - https://youtu.be/LnFqE6-J5dU
+              - https://youtu.be/5CxTCQXHHYE
+              - https://youtu.be/be6borXweNE
+
+          - name: How Google does ML
+            videos:
+              - https://youtu.be/SPYfugqCgic
+              - https://youtu.be/3CvwG-HuCP8
+              - https://youtu.be/6uRLjhlKYWk
+              - https://youtu.be/_v6I-vQmNfc
+              - https://youtu.be/BNcO8itw3DE
+              - https://youtu.be/oeExweGmFSE
+              - https://youtu.be/KRGNHMs9REU
+              - https://youtu.be/0GspE9lqtvQ
+
+          - name: Inclusive ML
+            videos:
+              - https://youtu.be/LJPdxUOjETs
+              - https://youtu.be/NM1DoeaFl2A
+              - https://youtu.be/Y5nUgw-FHbM
+              - https://youtu.be/xbMK1p_RUp4
+              - https://youtu.be/SRnYsU5y-Oo
+              - https://youtu.be/db5T4aLywHI
+          - name: Python Notebooks in the Cloud
+            videos:
+              - https://youtu.be/4II8I734d7A
+              - https://youtu.be/zz7aJls0R6M
+              - https://youtu.be/w38MOqks654
+              - https://youtu.be/9VoYHeKLQPU
+              - https://youtu.be/l11T-ZApwAo
+              - https://youtu.be/jt_UBUMT86I
+              - https://youtu.be/xzvDDWADkBs
+
+          - name: Summary
+            videos:
+              - https://youtu.be/-wRzMt1B8eM
+
+      - name: Launching into Machine Learning
+        items:
+          - name: Introduction to Course
+            videos:
+              - https://youtu.be/mkWtyGwnfOs
+          - name: Improve Data Quality and Exploratory Data Analysis
+            videos:
+              - https://youtu.be/gkCqxCuU9nA
+              - https://youtu.be/u-ecsff_dh0
+              - https://youtu.be/feAxHzw-whk
+              - https://youtu.be/iRZyBKXB-0M
+              - https://youtu.be/xQnHfBCQxeo
+
+          - name: Practical ML
+            videos:
+              - https://youtu.be/4R7IGwlo-0s
+              - https://youtu.be/FcPifqsYixk
+              - https://youtu.be/aNpJ4EC23pE
+              - https://youtu.be/wHjfdeZ1Jqo
+              - https://youtu.be/7r6DYa3C_yo
+              - https://youtu.be/eyb8miVhPZI
+              - https://youtu.be/P3Ovu3Ww8pI
+              - https://youtu.be/Jeg6j5LLppc
+              - https://youtu.be/S5AJdV2iZPU
+              - https://youtu.be/uonrxHfxv6o
+              - https://youtu.be/FfbtrVfx1bs
+              - https://youtu.be/OZYmIiNMvk8
+              - https://youtu.be/tv7NXUAMrik
+
+          - name: Optimization
+            videos:
+              - https://youtu.be/tgyKP7PGBxs
+              - https://youtu.be/aA03Y3bo0Vk
+              - https://youtu.be/grBAPTHXLzw
+              - https://youtu.be/5Vvo8cKcvOE
+              - https://youtu.be/HJsZ1Kxj3VE
+              - https://youtu.be/cetktq-W0m4
+              - https://youtu.be/SVfmqYUFuCM
+              - https://youtu.be/sCq7edFf7ho
+              - https://youtu.be/XSsinML-iYc
+              - https://youtu.be/GwwTuREVZMk
+              - https://youtu.be/CtWdBeheoeI
+              - https://youtu.be/Pfo0ozebkYo
+              - https://youtu.be/Rlx4YdymbDQ
+          - name: Generalization and Sampling
+            videos:
+              - https://youtu.be/ho3ofb9CHsw
+              - https://youtu.be/sPaC3_TOuSg
+              - https://youtu.be/tMF_s6rzEes
+              - https://youtu.be/mGpJ6bt_-dQ
+              - https://youtu.be/UE4q4ksR3J0
+              - https://youtu.be/0MA0f6T6Msk
+              - https://youtu.be/nF0NdP7H12g
+              - https://youtu.be/KUkQ5qzhUk8
+              - https://youtu.be/0iLgAnne4HM
+          - name: Summary
+            videos:
+              - https://youtu.be/1sdHXgJ1Kk8
+
+      - name: Introduction to TensorFlow
+        items:
+          - name: Course Trailer
+            videos:
+              - https://youtu.be/AKBvjcP5dzk
+          - name: Introduction to course
+            videos:
+              - https://youtu.be/uNUomJttdJM
+
+          - name: Introduction to TensorFlow
+            videos:
+              - https://youtu.be/x2wVRGV8svY
+              - https://youtu.be/dVVBBRL9Pak
+              - https://youtu.be/sjO6l57Y1no
+              - https://youtu.be/b9XfBPfHsBI
+              - https://youtu.be/9OoRJo5X1tc
+          - name: Design and Build a TensorFlow Input Data Pipeline
+            videos:
+              - https://youtu.be/M_NuPpJOnXY
+              - https://youtu.be/RfIo_rd18-M
+              - https://youtu.be/uLrVuQuM2gc
+              - https://youtu.be/LWb_Ka34wfE
+              - https://youtu.be/c3tC_U_923U
+              - https://youtu.be/l50C7lIFtIo
+              - https://youtu.be/pY1C7yfAJkE
+              - https://youtu.be/7bX4LVFSI_A
+              - https://youtu.be/FhCIAsoL-XU
+              - https://youtu.be/SqdSTepKpfo
+          - name: Training neural networks with Tensorflow 2 and the Keras Sequential API
+            videos:
+              - https://youtu.be/hac97zAP78U
+              - https://youtu.be/DWA0FuRWJ68
+              - https://youtu.be/8Qdt7JcTpzQ
+              - https://youtu.be/RTSult-qLKY
+              - https://youtu.be/pbE4A4WvsW8
+              - https://youtu.be/mJQv5TmPttU
+              - https://youtu.be/IkCfYgasvj0
+          - name: Training neural networks with Tensorflow 2 and Keras Functional API
+            videos:
+              - https://youtu.be/pzhn6U2If28
+              - https://youtu.be/kPcGXwB0jiY
+              - https://youtu.be/IOiANu9ftmA
+              - https://youtu.be/ddFp5bWy8hw
+              - https://youtu.be/Ddrl89uIU5o
+              - https://youtu.be/QiIgWZex-3o
+          - name: Summary
+            videos:
+              - https://youtu.be/aexuagxw--c
+
+      - name: Feature Engineering
+        items:
+          - name: Introduction to Course
+            videos:
+              - https://youtu.be/xIMqi1hQQbI
+          - name: Raw Data to Features
+            videos:
+              - https://youtu.be/m5CDoHIiYBw
+              - https://youtu.be/QOxH470OlSE
+              - https://youtu.be/9pB7H1iZ0-I
+              - https://youtu.be/FGvGEEkLFKA
+              - https://youtu.be/NUjdxrDV7Ek
+              - https://youtu.be/5ICgO7Cp5HY
+              - https://youtu.be/Wnhe8Pjltvk
+              - https://youtu.be/tw5yLT3lKu0
+              - https://youtu.be/hTVaDr7XCzw
+              - https://youtu.be/0hYgSLWjcbU
+              - https://youtu.be/psuHysbS4nM
+          - name: Preprocessing and feature creation
+            videos:
+              - https://youtu.be/P7NAb89Gbxg
+              - https://youtu.be/3j7CrR7I4FA
+              - https://youtu.be/RSPes2yj2LI
+              - https://youtu.be/YeIW40n3IvY
+              - https://youtu.be/j8HhVguNTEw
+              - https://youtu.be/dcgYSBf5Q18
+              - https://youtu.be/NXzUgp4ryZk
+              - https://youtu.be/eaBUfTCpV48
+              - https://youtu.be/1NNAsOGDrF0
+          - name: Feature Crosses
+            videos:
+              - https://youtu.be/2g1aRgZqaUA
+              - https://youtu.be/nj4UwX-h62g
+              - https://youtu.be/tKbcil-_-1k
+              - https://youtu.be/O7uWBf_TPKo
+              - https://youtu.be/9N14mtrxjdE
+              - https://youtu.be/si86eOjEtes
+              - https://youtu.be/13PFkyVZvRc
+              - https://youtu.be/q5vJbVfT-wE
+              - https://youtu.be/j9h4bp71JoM
+              - https://youtu.be/-nnp7DybtWc
+              - https://youtu.be/UI9J2804Bxc
+              - https://youtu.be/ayh8tIMrdoo
+              - https://youtu.be/TJ6az8-SKHk
+              - https://youtu.be/nsbXAmlKBlM
+              - https://youtu.be/PWlaFp7IWQ0
+              - https://youtu.be/MwHb-iICxLM
+              - https://youtu.be/VRYfXmMT2ko
+              - https://youtu.be/QaePQLayz_o
+          - name: TensorFlow Transform
+            videos:
+              - https://youtu.be/QQKlC68eOKU
+              - https://youtu.be/RSB7ou52EVY
+              - https://youtu.be/Q8Zs-sR46KE
+              - https://youtu.be/g9duIQkG2No
+              - https://youtu.be/KmIC0XvkTnE
+              - https://youtu.be/nwdmtb4XznM
+          - name: Summary
+            videos:
+              - https://youtu.be/qswrYcQ2zBI
+
+      - name: The Art and Science of ML - Locales
+        items:
+          - name: Introduction
+            videos:
+              - https://youtu.be/MisAEuRNdZ0
+          - name: The Art of ML
+            videos:
+              - https://youtu.be/xZLUPZSenC4
+              - https://youtu.be/zv0hVJw5suQ
+              - https://youtu.be/jZdin2SdMao
+              - https://youtu.be/gOImSDKIpdk
+              - https://youtu.be/8jG1V-q0phE
+              - https://youtu.be/2AUmKAZV3ns
+              - https://youtu.be/3mjWe2bz5XQ
+              - https://youtu.be/xkQbFCeWEVA
+              - https://youtu.be/wtjOGaqFjIk
+              - https://youtu.be/akGcr5eIv_k
+          - name: Hyperparameter Tuning
+            videos:
+              - https://youtu.be/rdOof9LhwB0
+              - https://youtu.be/NjoG5pwW_c0
+              - https://youtu.be/s02adpnLRU8
+              - https://youtu.be/Mt-Zc2SojmA
+              - https://youtu.be/U0ppSwbFSTI
+          - name: A pinch of science
+            videos:
+              - https://youtu.be/fiY4U-Al4oU
+              - https://youtu.be/S5gQOJ45s7M
+              - https://youtu.be/_D7Njb85yMY
+              - https://youtu.be/SBnTY1ZVD00
+              - https://youtu.be/tckxNc1nves
+          - name: The science of neural networks
+            videos:
+              - https://youtu.be/AHf-WwONGzA
+              - https://youtu.be/OqLPNtQveHo
+              - https://youtu.be/oE1ph7sXYxU
+              - https://youtu.be/WyYwISA8SUg
+              - https://youtu.be/C_nfQiFjDK8
+              - https://youtu.be/mQD4Dl1HZDU
+          - name: Embeddings
+            videos:
+              - https://youtu.be/ltpnDzpLrHs
+              - https://youtu.be/VdXCIlJPp6A
+              - https://youtu.be/0D4qULutveQ
+              - https://youtu.be/ubQu55c9TgA
+              - https://youtu.be/1f1ew-sV21o
+              - https://youtu.be/pZWRcaS0L0c
+              - https://youtu.be/rE-wRBGsAnw
+          - name: Custom Estimator
+            videos:
+              - https://youtu.be/VHnEM6GVfH0
+              - https://youtu.be/nZMcsJHM8Hw
+              - https://youtu.be/sXA3EyIxc4E
+              - https://youtu.be/47qXyovQdHk
+              - https://youtu.be/u_kj1hJOBSw
+          - name: Summary
+            videos:
+              - https://youtu.be/S8f1XTKbWh4
+
+  - name: Automate Interactions with Contact Center AI
+    videos:
+      - https://youtu.be/i8b4pEYIsIM
+  - name: End-to-End Machine Learning with TensorFlow on GCP
+    items:
+      - name: End-to-End Machine Learning with TensorFlow on GCP
+        items:
+          - name: Welcome to the Courses
+            videos:
+              - https://youtu.be/T6UPP-duJzs
+              - https://youtu.be/8P25HuYYjbA
+          - name: Machine Learning (ML) on Google Cloud Platform (GCP)
+            videos:
+              - https://youtu.be/OWUvIol22fw
+          - name: Explore the Data
+            videos:
+              - https://youtu.be/dt9bfdK-_TA
+              - https://youtu.be/jo4ldvpDjhQ
+              - https://youtu.be/ay8iIiEGATU
+              - https://youtu.be/yTPkJMrlUng
+              - https://youtu.be/oxtTIScs0RY
+              - https://youtu.be/3orW-wTP3_M
+              - https://youtu.be/TKHtaBSFINE
+              - https://youtu.be/eqoELh0hLBs
+          - name: Build the Model
+            videos:
+              - https://youtu.be/9PTlJpgVo-o
+              - https://youtu.be/-yZqD2roSBg
+              - https://youtu.be/ZnUlZ132sP0
+          - name: Operationalize the Model
+            videos:
+              - https://youtu.be/ioMCVC6xhq0
+              - https://youtu.be/bVFsVPAC0Ro
+              - https://youtu.be/YfnZj4J2fDw
+              - https://youtu.be/WMlzrRdPhpg
+              - https://youtu.be/bS3AWEhR6Eo
+              - https://youtu.be/E9_0u1LIWyc
+              - https://youtu.be/cOyWHC-SxlE
+              - https://youtu.be/tM2mYin-wtE
+              - https://youtu.be/poldtcpLHbI
+              - https://youtu.be/S_F7iJnKaP4
+              - https://youtu.be/gADy8bmjxds
+              - https://youtu.be/W6YrdmbIdjQ
+              - https://youtu.be/AmriKufQ8XI
+              - https://youtu.be/OCmxwvN7pGQ
+              - https://youtu.be/o92PcJYlFYY
+
+      - name: Production Machine Learning Systems
+        items:
+          - name: Introduction to Advanced Machine Learning on Google Cloud
+            videos:
+              - https://youtu.be/eZFUZmE-E98
+              - https://youtu.be/McdjKUNvpJU
+
+          - name: Architecting Production ML Systems
+            videos:
+              - https://youtu.be/agcXKlCsb14
+              - https://youtu.be/Av5P_HdYoWg
+              - https://youtu.be/9H4ZQTsxLAU
+              - https://youtu.be/bYl1Dlpf59Y
+              - https://youtu.be/I9dcjyQ8x7Y
+              - https://youtu.be/AOAGxqJKNIQ
+              - https://youtu.be/92iRa6qu-Ww
+              - https://youtu.be/kyzsHJRf-sA
+              - https://youtu.be/yYRmqZ2bphs
+
+          - name: Designing Adaptable ML Systems
+            videos:
+              - https://youtu.be/JYpQU8M-TLI
+              - https://youtu.be/7SK9BYb4GAI
+              - https://youtu.be/XaQKsBdkdks
+              - https://youtu.be/Uh7PpyLkZLc
+              - https://youtu.be/jqr6iU9Wabo
+              - https://youtu.be/CXBquvLWXag
+              - https://youtu.be/haSCSPQO9f8
+              - https://youtu.be/HVYnsvZDfrE
+              - https://youtu.be/lSxC-tHfg_I
+              - https://youtu.be/PSydilsDR1o
+              - https://youtu.be/I6QPBPJZcDw
+              - https://youtu.be/GoVxyRNC_Pg
+              - https://youtu.be/A-vCs20CPL4
+              - https://youtu.be/Pec17ldFx8s
+              - https://youtu.be/MT3_g6jY_dA
+              - https://youtu.be/XbMfc9TayNs
+
+          - name: Designing High-Performance ML Systems
+            videos:
+              - https://youtu.be/fbXkTcn3duw
+              - https://youtu.be/d27FttsKYdg
+              - https://youtu.be/wCcSpgNrvJw
+              - https://youtu.be/whZHiYUv5xQ
+              - https://youtu.be/0aeqJI_-ng8
+              - https://youtu.be/RjLaI3n_iw4
+              - https://youtu.be/x_cXrGSoZHQ
+              - https://youtu.be/NkdRalVd4LU
+              - https://youtu.be/J7L_9RyR_C0
+              - https://youtu.be/fZgs8ill60U
+              - https://youtu.be/go-LKrHjFig
+              - https://youtu.be/a2Ooufg64yY
+              - https://youtu.be/Hma6FKjt8qc
+              - https://youtu.be/FbfW8zbt7K4
+              - https://youtu.be/YfhYhs1dPU8
+
+          - name: Building Hybrid ML Systems
+            videos:
+              - https://youtu.be/1-eAFAkfvCQ
+              - https://youtu.be/AFuglVXwjCs
+              - https://youtu.be/gizRvfxGqXU
+              - https://youtu.be/IIiXmEgPxHM
+              - https://youtu.be/wrLUtHoj0VA
+              - https://youtu.be/xHk8UX7IZt0
+              - https://youtu.be/S4HDZjQHEnI
+              - https://youtu.be/uZ0HIyj6flM
+
+          - name: Summary
+            videos:
+              - https://youtu.be/uvSygsy2ZtM
+
+      - name: Image Understanding with TensorFlow on Google Cloud
+        items:
+          - name: Welcome to Image Understanding with TensorFlow on Google Cloud
+            videos:
+              - https://youtu.be/UzcvE-lDTGo
+              - https://youtu.be/UaBPfcH0BUs
+              - https://youtu.be/fUrOWvQSrI0
+
+          - name: Linear and DNN Models
+            videos:
+              - https://youtu.be/rUQ2XmTZCE8
+              - https://youtu.be/qKLyEkPZteE
+              - https://youtu.be/rvWXW4ewbCk
+              - https://youtu.be/rvWXW4ewbCk
+              - https://youtu.be/g5rOQHiv7fs
+              - https://youtu.be/VDwtrkibsn4
+              - https://youtu.be/QhfBVE0JyjQ
+              - https://youtu.be/oBFIX6c0GZQ
+              - https://youtu.be/x_AkhczS9PQ
+              - https://youtu.be/z1Ye-4sEGGo
+              - https://youtu.be/Q5EsksWWySs
+
+          - name: Convolutional Neural Networks (CNNs)
+            videos:
+              - https://youtu.be/CF4nqzNQqIw
+              - https://youtu.be/_1ih1_ojboc
+              - https://youtu.be/iVqWhx-a9js
+              - https://youtu.be/pTxPe5-1-uE
+              - https://youtu.be/ChzVWBvfzJ4
+              - https://youtu.be/g31FdUF_sX8
+
+          - name: Dealing with Data Scarcity
+            videos:
+              - https://youtu.be/LRpxApngQIQ
+
+          - name: Going Deeper Faster
+            videos:
+              -
+          - name: Pre-built ML Models for Image Classification
+            videos:
+              -
+          - name: Summary
+      - name: Sequence Models for Time Series and Natural Language Processing on Google Cloud
+        items:
+          - name: Working with Sequences
+            videos:
+              - https://youtu.be/EflmiWfXXpE
+              - https://youtu.be/-QdXNpNVLBQ
+              - https://youtu.be/VUBbIDWN7QA
+              - https://youtu.be/T4ucnfjoBQw
+              - https://youtu.be/2ewB-Nr-mlk
+              - https://youtu.be/GBSaCLE4gXA
+              - https://youtu.be/tWmZJwqsqR4
+              - https://youtu.be/0_aoap7N9No
+              - https://youtu.be/wlEcw4Eq3qQ
+              - https://youtu.be/Np9kLo4MCsk
+              - https://youtu.be/BA-YtNnWvAQ
+              - https://youtu.be/7xqiPr05nVY
+
+          - name: Recurrent Neural Networks
+            videos:
+              - https://youtu.be/NMBZ9h2dGxE
+              - https://youtu.be/vSiy0zxvbAg
+              - https://youtu.be/9AT5mOlfuDA
+              - https://youtu.be/5uB-l0XNejY
+
+          - name: Dealing with Longer Sequences
+            videos:
+              - https://youtu.be/OM7bH6p-jvU
+              - https://youtu.be/TifFc0l288Q
+              - https://youtu.be/LRpxApngQIQ
+              - https://youtu.be/kG5_HF7GlRI
+              - https://youtu.be/RnfOD6vNcPk
+              - https://youtu.be/KxDThb7RFX4
+              - https://youtu.be/mToN5Jie7UQ
+              - https://youtu.be/PGa6TeCYrsg
+              - https://youtu.be/jnqc5XsVjDU
+              - https://youtu.be/9NkNgmCNsGs
+              - https://youtu.be/a7iJBRNDi0M
+              - https://youtu.be/YOCHdHeXVfs
+              - https://youtu.be/vLP8qr4OHZA
+              - https://youtu.be/KWJHW3utj5A
+
+          - name: Text Classification
+            videos:
+              - https://youtu.be/qmLgrRsZfMY
+              - https://youtu.be/jE-p8QhCzvw
+              - https://youtu.be/Bmia9cX8kVg
+              - https://youtu.be/rxOuwBwsGr8
+              - https://youtu.be/BpXbme6lKJ8
+              - https://youtu.be/BNL_lf1guis
+              - https://youtu.be/ZI8cDo_JjVc
+              - https://youtu.be/Dur848vNQZc
+
+          - name: Reusable Embeddings
+            videos:
+              - https://youtu.be/VmfyJWPMJhU
+              - https://youtu.be/mpZOnLhTH3s
+              - https://youtu.be/7Ht-jks78kw
+              - https://youtu.be/JyKdcJCsg3M
+              - https://youtu.be/nVk9pIuD9Jg
+              - https://youtu.be/ECKZ-p5hE-U
+
+          - name: Encoder-Decoder Models
+            videos:
+              - https://youtu.be/iWyPJWM87DI
+              - https://youtu.be/djEzfyHjHqg
+              - https://youtu.be/aE7t3ZXA1yQ
+              - https://youtu.be/I5HDWsxsjMY
+              - https://youtu.be/68i5hF1mcq4
+              - https://youtu.be/SLsi_uKJ1DY
+              - https://youtu.be/AZmp3HC7qbg
+              - https://youtu.be/M6nSSxKTV1Y
+              - https://youtu.be/buTAZQvtde4
+              - https://youtu.be/T4D4VPHRTPI
+
+          - name: Summary
+            videos:
+              - https://youtu.be/ETrORlq0NVc
+
+      - name: Recommendation Systems with TensorFlow on Google Cloud
+        items:
+          - name: Recommendation Systems Overview
+            videos:
+              - https://youtu.be/6bzQ6QIFSAs
+              - https://youtu.be/cI07Gm00k1Y
+              - https://youtu.be/lB4KAEZeOOo
+              - https://youtu.be/CV58xOQir-g
+              - https://youtu.be/3lwVrI9ekoQ
+              - https://youtu.be/HAMR-7b2y2A
+
+          - name: Content-Based Recommendation Systems
+            videos:
+              - https://youtu.be/8x1WsZ2MTaA
+              - https://youtu.be/8jzDH2HdRTk
+              - https://youtu.be/9MgThGuEl-w
+              - https://youtu.be/HaCS4iaH5dk
+              - https://youtu.be/QjqIM5J4Zz8
+              - https://youtu.be/-8GVgxPbo6c
+              - https://youtu.be/3v5cvuaONJI
+              - https://youtu.be/2KxHzGKL1GI
+              - https://youtu.be/SASBVeTTygc
+              - https://youtu.be/fNj202gy9H0
+
+          - name: COLLABORATIVE FILTERING RECOMMENDATION SYSTEMS
+            videos:
+              - https://youtu.be/fIGvRtIVWUw
+              - https://youtu.be/LaUh8IR8cpc
+              - https://youtu.be/iDYyjbeVbt0
+              - https://youtu.be/3-WHFsUFAqU
+              - https://youtu.be/eynqHobWP2U
+              - https://youtu.be/CXHOKGSfA28
+              - https://youtu.be/HPXaQBLZYMM
+              - https://youtu.be/8rG3FjOpD40
+              - https://youtu.be/mBOpiTIkiqE
+              - https://youtu.be/jQ0oU2DBzGk
+              - https://youtu.be/BzQHXo_RwbY
+              - https://youtu.be/hdX6yA0qGnw
+              - https://youtu.be/sak5zw6pDYk
+              - https://youtu.be/nltmDV4OSLI
+              - https://youtu.be/97Q08em3_tE
+
+          - name: Neural Networks for Recommendation Systems
+            videos:
+              - https://youtu.be/CKRDL-sXPNI
+              - https://youtu.be/GbaytF6wEWs
+              - https://youtu.be/x_X2eEu5iSk
+              - https://youtu.be/a-O8XjEcP7g
+              - https://youtu.be/R7CoOZsXfi8
+              - https://youtu.be/yPoEikv6EYM
+              - https://youtu.be/bgBMyIxi7m0
+              - https://youtu.be/NsvFLgMv-yQ
+              - https://youtu.be/cI20GwHy0dM
+              - https://youtu.be/a4_ZksoWcjg
+              - https://youtu.be/oAXN935ulwI
+              - https://youtu.be/BT84GDoN7N8
+              - https://youtu.be/hxGhDc-T-8c
+              - https://youtu.be/7bLCum0Laxo
+
+          - name: Building an End-to-End Recommendation System
+            videos:
+              - https://youtu.be/93eOwpyVy4U
+              - https://youtu.be/tMioE1roC0A
+              - https://youtu.be/WqPN5eoImUk
+              - https://youtu.be/fwbsARsoNaw
+              - https://youtu.be/AAo8KOel6Ew
+              - https://youtu.be/-yd5chRqKXQ
+              - https://youtu.be/iDBUvaKtqYI
+              - https://youtu.be/Tl9hcfeY1fc
+              - https://youtu.be/PAq_JndR1_8
+
+          - name: Summary
+            videos:
+              - https://youtu.be/m6BrdkzQgbA
+              - https://youtu.be/6jufO43qL6o
+  - name: MLOps (Machine Learning Operations) Fundamentals
+    items:
+      - name: MLOps (Machine Learning Operations) Fundamentals
+        items:
+          - name: Introduction to MLOps Fundamentals
+            videos:
+              - https://youtu.be/1QIhPIxmVBc
+          - name: Why and When to Employ MLOps
+            videos:
+              - https://youtu.be/BrZ0ksM0qCY
+              - https://youtu.be/AT0csHr6DiA
+              - https://youtu.be/GUifbqmWfpA
+
+          - name: Understanding the main Kubernetes components (Optional)
+            videos:
+              - https://youtu.be/C_9CEQ31Eok
+              - https://youtu.be/fofRLafokPU
+              - https://youtu.be/YwPfmZMu4GA
+              - https://youtu.be/Cpk23xWexWU
+              - https://youtu.be/QeeVUqj-25I
+              - https://youtu.be/PqafdWZk344
+              - https://youtu.be/AADUrb-wdds
+              - https://youtu.be/Ajhe82IL1b8
+              - https://youtu.be/861Ri-K1uvs
+              - https://youtu.be/n7WHd4D9v-M
+              - https://youtu.be/XvNMa7tBh0g
+              - https://youtu.be/5T4sawZZQd0
+              - https://youtu.be/Wt84GHIRtS0
+              - https://youtu.be/s9vBiAyuP64
+              - https://youtu.be/ostlOaHHZS4
+              - https://youtu.be/rIdmxn08wH8
+              - https://youtu.be/MIFuilNo540
+              - https://youtu.be/gCsWE0Of9Lo
+              - https://youtu.be/KYGN8WyS2-E
+              - https://youtu.be/Rfloc1zQcZc
+              - https://youtu.be/XJMMuq7SWCg
+              - https://youtu.be/hi-oeoZahdc
+              - https://youtu.be/xWWkwtUjjeo
+              - https://youtu.be/VwPtoeCmpNg
+              - https://youtu.be/EmG4bkhSt4I
+
+          - name: Introduction to AI Platform Pipelines
+            videos:
+              - https://youtu.be/Rbd53a1Xrlo
+              - https://youtu.be/ObhYTmoXxsI
+              - https://youtu.be/Nm4RLIeIKRA
+              - https://youtu.be/XaRmd-ArZxk
+              - https://youtu.be/n3rgKM-jFjw
+              - https://youtu.be/wfvhgHjLVKQ
+
+          - name: Training, Tuning and Serving on AI Platform
+            videos:
+              - https://youtu.be/G75p5Oki0z0
+              - https://youtu.be/s0TOnn3-T6Y
+              - https://youtu.be/Gl_BCwAP4Tw
+              - https://youtu.be/dIQcD4aHGF4
+              - https://youtu.be/654IwZmz-mo
+              - https://youtu.be/m0LiamIaP1g
+              - https://youtu.be/Sz_pFyPWRmA
+
+          - name: Kubeflow Pipelines on AI Platform
+            videos:
+              - https://youtu.be/-XWEjJiLcvs
+              - https://youtu.be/HgfbV0xVnnc
+              - https://youtu.be/bZI_YnVZ59Y
+              - https://youtu.be/QVBwYqVtaCw
+              - https://youtu.be/86Hpyiye3iQ
+              - https://youtu.be/m28jjpkqJoA
+              - https://youtu.be/Bmq6JFxckaY
+              - https://youtu.be/1KKUGjEUons
+          - name: CI/CD for Kubeflow Pipelines on AI Platform
+            videos:
+              - https://youtu.be/A6vqlfGcDLA
+              - https://youtu.be/OZYHb3lsUvw
+              - https://youtu.be/4j8EPybSvnY
+              - https://youtu.be/H1_uZLjiokQ
+              - https://youtu.be/1yHCFrB4EgQ
+          - name: Course Summary
+            videos:
+              - https://youtu.be/eOk22vJqPT4
